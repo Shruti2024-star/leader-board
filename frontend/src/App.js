@@ -5,7 +5,7 @@ import AddUser from './components/AddUser';
 import Leaderboard from './components/Leaderboard';
 import './App.css';
 
-const API = process.env.REACT_APP_API_URL;
+const API = 'https://leader-board-cdc7.onrender.com';
 
 
 function App() {
